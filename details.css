@@ -22,3 +22,13 @@
   margin-top: 0;
   background: #fff;
 }
+
+.equation {
+  margin: 18px auto;
+  padding: 12px 18px;
+  max-width: 760px;
+  border-left: 3px solid var(--link);
+  background: #f5f8fb;
+  text-align: center;
+  font-size: 1.04rem;
+}
